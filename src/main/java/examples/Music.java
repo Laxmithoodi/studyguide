@@ -10,4 +10,12 @@ public abstract class Music  {
     public Music(){}
 
     public abstract String playNotes();
+
+    public List<Notes> getNotesList() {
+        return notesList;
+    }
+
+    public void setNotesList(List<Notes> notesList) {
+        this.notesList = notesList;
+    }
 }

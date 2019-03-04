@@ -1,6 +1,7 @@
-package flower.power.Interfaces;
+package flower.power;
 
 public interface Climb {
 
     Integer climb();
+
 }

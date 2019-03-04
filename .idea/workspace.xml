@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f357f4e-99d9-4477-bbb7-dcbcf595bacb" name="Default Changelist" comment="" />
+    <list default="true" id="6f357f4e-99d9-4477-bbb7-dcbcf595bacb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/flower/power/HoneySuckleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/examples/Music.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/examples/Music.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/examples/Pop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/examples/Pop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/examples/Rap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/examples/Rap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/flower/power/Cactus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/flower/power/Cactus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/flower/power/Fern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/flower/power/Fern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/flower/power/Hibiscus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/flower/power/Hibiscus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/flower/power/HoneySuckle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/flower/power/HoneySuckle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/flower/power/Interfaces/Bloom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/flower/power/Bloom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/flower/power/Interfaces/Climb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/flower/power/Climb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/flower/power/Ivy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/flower/power/Ivy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/flower/power/PearTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/flower/power/PearTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/flower/power/Plant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/flower/power/Plant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/flower/power/BloomTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/flower/power/BloomTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/flower/power/CactusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/flower/power/CactusTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/flower/power/ClimbTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/flower/power/ClimbTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/everybody/clap/your/hands/Applause.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/everybody/clap/your/hands/Clap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/everybody/clap/your/hands/NoiseMaker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/everybody/clap/your/hands/SingleClap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/everybody/clap/your/hands/SlowClap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/everybody/clap/your/hands/secret/Beat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/everybody/clap/your/hands/secret/Snap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/everybody/clap/your/hands/secret/Stomp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/flower/power/Cactus.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/flower/power/Cactus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/flower/power/Fern.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/flower/power/Fern.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/flower/power/Hibiscus.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/flower/power/Hibiscus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/flower/power/HoneySuckle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/flower/power/HoneySuckle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/flower/power/Ivy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/flower/power/Ivy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/flower/power/PearTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/flower/power/PearTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/flower/power/Plant.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/flower/power/Plant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/flower/power/CactusTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/flower/power/CactusTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -10,67 +45,158 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/studyguide$flower_power_in_studyguide.ic" NAME="flower.power in studyguide Coverage Results" MODIFIED="1551651965082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>flower.power.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="23" />
+  </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/examples/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/flower/power/Cactus.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="270">
+              <caret line="18" column="34" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="34" />
+              <folding>
+                <element signature="e#133#134#0" expanded="true" />
+                <element signature="e#150#151#0" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
+                <element signature="e#222#223#0" expanded="true" />
+                <element signature="e#223#224#0" expanded="true" />
+                <element signature="e#260#261#0" expanded="true" />
+                <element signature="e#321#322#0" expanded="true" />
+                <element signature="e#373#374#0" expanded="true" />
+                <element signature="e#445#446#0" expanded="true" />
+                <element signature="e#470#471#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/flower/power/Plant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/flower/power/Fern.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+              <folding>
+                <element signature="e#74#75#0" expanded="true" />
+                <element signature="e#120#121#0" expanded="true" />
+                <element signature="e#181#182#0" expanded="true" />
+                <element signature="e#201#202#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/flower/power/Hibiscus.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+              <folding>
+                <element signature="e#82#83#0" expanded="true" />
+                <element signature="e#126#127#0" expanded="true" />
+                <element signature="e#191#192#0" expanded="true" />
+                <element signature="e#211#212#0" expanded="true" />
+                <element signature="e#279#280#0" expanded="true" />
+                <element signature="e#306#307#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/flower/power/HoneySuckleTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/everybody/clap/your/hands/NoiseMaker.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/flower/power/CactusTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="371">
+              <caret line="60" column="14" lean-forward="true" selection-start-line="60" selection-start-column="14" selection-end-line="60" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/examples/Country.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/flower/power/HibiscusTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="600">
+              <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/examples/Music.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/flower/power/HoneySuckle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+            <state relative-caret-position="330">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="e#88#89#0" expanded="true" />
+                <element signature="e#107#108#0" expanded="true" />
+                <element signature="e#161#162#0" expanded="true" />
+                <element signature="e#188#189#0" expanded="true" />
+                <element signature="e#295#296#0" expanded="true" />
+                <element signature="e#320#321#0" expanded="true" />
+                <element signature="e#362#363#0" expanded="true" />
+                <element signature="e#387#388#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/examples/Notes.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/flower/power/Ivy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="210">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+              <folding>
+                <element signature="e#90#91#0" expanded="true" />
+                <element signature="e#109#110#0" expanded="true" />
+                <element signature="e#172#173#0" expanded="true" />
+                <element signature="e#192#193#0" expanded="true" />
+                <element signature="e#193#194#0" expanded="true" />
+                <element signature="e#220#221#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/examples/Pop.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/flower/power/IvyTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/examples/Rap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="390">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -114,33 +240,35 @@
         <option value="$PROJECT_DIR$/src/main/java/everybody/clap/your/hands/Applause.java" />
         <option value="$PROJECT_DIR$/src/main/java/everybody/clap/your/hands/SlowClap.java" />
         <option value="$PROJECT_DIR$/src/main/java/flower/power/Flower.java" />
-        <option value="$PROJECT_DIR$/src/main/java/flower/power/Bloom.java" />
         <option value="$PROJECT_DIR$/src/main/java/everybody/clap/your/hands/SingleClap.java" />
         <option value="$PROJECT_DIR$/src/main/java/flower/power/CactusTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/flower/power/PlantTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/flower/power/ClimbTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/flower/power/Climb.java" />
         <option value="$PROJECT_DIR$/src/main/java/flower/power/SunExposure.java" />
-        <option value="$PROJECT_DIR$/src/main/java/flower/power/Cactus.java" />
-        <option value="$PROJECT_DIR$/src/main/java/flower/power/Plant.java" />
-        <option value="$PROJECT_DIR$/src/test/java/flower/power/CactusTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/flower/power/BloomTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/flower/power/Ivy.java" />
         <option value="$PROJECT_DIR$/src/test/java/flower/power/IvyTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/flower/power/Fern.java" />
-        <option value="$PROJECT_DIR$/src/main/java/flower/power/Hibiscus.java" />
-        <option value="$PROJECT_DIR$/src/main/java/flower/power/HoneySuckle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/flower/power/PearTree.java" />
         <option value="$PROJECT_DIR$/src/test/java/flower/power/FernTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/flower/power/HibiscusTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/flower/power/PearTreeTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/examples/Pop.java" />
         <option value="$PROJECT_DIR$/src/main/java/examples/Notes.java" />
         <option value="$PROJECT_DIR$/src/main/java/examples/Country.java" />
-        <option value="$PROJECT_DIR$/src/main/java/examples/Rap.java" />
-        <option value="$PROJECT_DIR$/src/main/java/examples/Music.java" />
         <option value="$PROJECT_DIR$/src/main/java/examples/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/everybody/clap/your/hands/NoiseMaker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/examples/Music.java" />
+        <option value="$PROJECT_DIR$/src/main/java/examples/Pop.java" />
+        <option value="$PROJECT_DIR$/src/main/java/examples/Rap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/flower/power/Interfaces/Climb.java" />
+        <option value="$PROJECT_DIR$/src/main/java/flower/power/Bloom.java" />
+        <option value="$PROJECT_DIR$/src/main/java/flower/power/Climb.java" />
+        <option value="$PROJECT_DIR$/src/main/java/flower/power/Hibiscus.java" />
+        <option value="$PROJECT_DIR$/src/main/java/flower/power/PearTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/flower/power/HoneySuckle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/flower/power/Cactus.java" />
+        <option value="$PROJECT_DIR$/src/main/java/flower/power/Fern.java" />
+        <option value="$PROJECT_DIR$/src/main/java/flower/power/Plant.java" />
+        <option value="$PROJECT_DIR$/src/main/java/flower/power/Ivy.java" />
+        <option value="$PROJECT_DIR$/src/test/java/flower/power/HoneySuckleTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/flower/power/CactusTest.java" />
       </list>
     </option>
   </component>
@@ -198,16 +326,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hands" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studyguide" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyguide" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hands" type="462c0819:PsiDirectoryNode" />
-              <item name="secret" type="462c0819:PsiDirectoryNode" />
+              <item name="power" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="studyguide" type="b2602c69:ProjectViewProjectNode" />
@@ -239,7 +358,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551649576902" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551658702659" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -271,27 +390,11 @@
     </option>
   </component>
   <component name="RunManager" selected="JUnit.flower.power in studyguide">
-    <configuration name="BloomTest.bloomPlantsTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="studyguide" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="flower.power.Interfaces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="flower.power" />
-      <option name="MAIN_CLASS_NAME" value="flower.power.BloomTest" />
-      <option name="METHOD_NAME" value="bloomPlantsTests" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="CactusTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="studyguide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="flower.power.Interfaces.*" />
+          <option name="PATTERN" value="flower.power.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -306,7 +409,7 @@
       <module name="studyguide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="flower.power.Interfaces.*" />
+          <option name="PATTERN" value="flower.power.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -318,11 +421,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IvyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="studyguide" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="flower.power.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="flower.power" />
+      <option name="MAIN_CLASS_NAME" value="flower.power.IvyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PlantTest.plantTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="studyguide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="flower.power.Interfaces.*" />
+          <option name="PATTERN" value="flower.power.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -338,7 +456,7 @@
       <module name="studyguide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="flower.power.Interfaces.*" />
+          <option name="PATTERN" value="flower.power.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -351,10 +469,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.flower.power in studyguide" />
+        <item itemvalue="JUnit.IvyTest" />
         <item itemvalue="JUnit.CactusTest" />
         <item itemvalue="JUnit.ClimbTest.climbTest1" />
         <item itemvalue="JUnit.PlantTest.plantTest2" />
-        <item itemvalue="JUnit.BloomTest.bloomPlantsTests" />
       </list>
     </recent_temporary>
   </component>
@@ -369,23 +487,11 @@
       <option name="presentableId" value="Default" />
       <updated>1551470047138</updated>
       <workItem from="1551470048470" duration="1004000" />
-      <workItem from="1551488457592" duration="30274000" />
+      <workItem from="1551488457592" duration="33586000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CactusTest_nullaryConstructorTest - 2019.03.03 at 02h 51m 26s.xml">
-      <configuration name="CactusTest.nullaryConstructorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ClimbTest_climbTest1 - 2019.03.03 at 03h 26m 17s.xml">
-      <configuration name="ClimbTest.climbTest1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ClimbTest_climbTest2 - 2019.03.03 at 03h 33m 06s.xml">
-      <configuration name="ClimbTest.climbTest2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ClimbTest_climbTest2 - 2019.03.03 at 03h 33m 13s.xml">
-      <configuration name="ClimbTest.climbTest2" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="BloomTest_bloomPlantsTests - 2019.03.03 at 03h 41m 19s.xml">
       <configuration name="BloomTest.bloomPlantsTests" configurationId="JUnit" />
     </history-entry>
@@ -398,21 +504,40 @@
     <history-entry file="flower_power_in_studyguide - 2019.03.03 at 05h 03m 36s.xml">
       <configuration name="flower.power in studyguide" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="flower_power_in_studyguide - 2019.03.03 at 17h 15m 39s.xml">
+      <configuration name="flower.power in studyguide" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="flower_power_in_studyguide - 2019.03.03 at 17h 19m 54s.xml">
+      <configuration name="flower.power in studyguide" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="flower_power_in_studyguide - 2019.03.03 at 17h 24m 00s.xml">
+      <configuration name="flower.power in studyguide" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="flower_power_in_studyguide - 2019.03.03 at 17h 26m 06s.xml">
+      <configuration name="flower.power in studyguide" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IvyTest - 2019.03.03 at 17h 30m 22s.xml">
+      <configuration name="IvyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="flower_power_in_studyguide - 2019.03.03 at 17h 35m 22s.xml">
+      <configuration name="flower.power in studyguide" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31278000" />
+    <option name="totallyTimeSpent" value="34590000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-296" y="-1080" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1512247" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18530351" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32907802" />
+      <window_info anchor="bottom" id="Messages" weight="0.32871288" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22970296" />
@@ -425,6 +550,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.05537806" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -436,17 +562,17 @@
       <window_info anchor="right" id="Database" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3390558" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23642172" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.32907802" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32871288" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.22970296" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -456,15 +582,16 @@
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" visible="true" weight="0.05537806" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -674,123 +801,148 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/flower/power/ClimbTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/flower/power/PlantTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+        <state relative-caret-position="585">
+          <caret line="39" column="34" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/flower/power/BloomTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/examples/Country.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="37" lean-forward="true" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/everybody/clap/your/hands/NoiseMaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/examples/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/flower.power">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>flower.power</OriginalElement>
+          <nodes>
+            <node x="" y="">flower.power.Ivy</node>
+            <node x="" y="">flower.power.HoneySuckle</node>
+            <node x="" y="">flower.power.Hibiscus</node>
+            <node x="" y="">flower.power.SunExposure</node>
+            <node x="" y="">flower.power.ClimbTest</node>
+            <node x="" y="">flower.power.PlantTest</node>
+            <node x="" y="">flower.power.CactusTest</node>
+            <node x="" y="">flower.power.BloomTest</node>
+            <node x="" y="">flower.power.HibiscusTest</node>
+            <node x="" y="">flower.power.Fern</node>
+            <node x="" y="">flower.power.Cactus</node>
+            <node x="" y="">flower.power.FernTest</node>
+            <node x="" y="">flower.power.PearTreeTest</node>
+            <node x="" y="">flower.power.IvyTest</node>
+            <node x="" y="">flower.power.Plant</node>
+            <node x="" y="">flower.power.Interfaces</node>
+            <node x="" y="">flower.power.PearTree</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="209.5" y="236.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram//Users/marshillabrahma/SideProject/studyguide/src/main/java/flower/power">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src/main/java/flower/power</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="797.0" y="363.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/examples/Notes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/examples/Rap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#87#88#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/flower/power/Fern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/flower/power/Hibiscus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/flower/power/HoneySuckle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/flower/power/Ivy.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/examples/Music.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+          <folding>
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/flower/power/PearTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/flower/power/SunExposure.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/flower/power/Plant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/flower/power/Cactus.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/examples/Pop.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/flower/power/CactusTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="63" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="63" />
+          <caret line="4" selection-start-line="4" selection-end-line="6" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#83#84#0" expanded="true" />
+            <element signature="e#110#111#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/flower/power/FernTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/flower/power/Bloom.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="63" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/flower/power/IvyTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/flower/power/Climb.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="56" column="52" selection-start-line="56" selection-start-column="52" selection-end-line="56" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/flower/power/Interfaces/Bloom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/flower/power/Interfaces/Climb.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -804,72 +956,181 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/flower/power/SunExposure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/flower/power/PearTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="e#99#100#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/flower/power/ClimbTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/flower/power/BloomTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/flower/power/FernTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="63" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/flower/power/Fern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <element signature="e#74#75#0" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/flower/power/Hibiscus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding>
+            <element signature="e#82#83#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/flower/power/Plant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/flower/power/IvyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/flower/power/Ivy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="e#90#91#0" expanded="true" />
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/flower/power/HoneySuckle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#88#89#0" expanded="true" />
+            <element signature="e#107#108#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/flower/power/HibiscusTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="62" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="62" selection-end-column="5" />
+        <state relative-caret-position="600">
+          <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/flower/power/PlantTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/flower/power/HoneySuckleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="34" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
+        <state relative-caret-position="405">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/examples/Notes.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/flower/power/Cactus.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="270">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="34" />
+          <folding>
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/examples/Pop.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/flower/power/CactusTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/examples/Rap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/examples/Music.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/examples/Country.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/examples/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/everybody/clap/your/hands/NoiseMaker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="371">
+          <caret line="60" column="14" lean-forward="true" selection-start-line="60" selection-start-column="14" selection-end-line="60" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

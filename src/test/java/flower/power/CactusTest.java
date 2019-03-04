@@ -62,5 +62,17 @@ public class CactusTest {
         Assert.assertEquals(expected,actual);
     }
 
+    @Test
+    public void setNumberOfNeedles(){
+        //given
+        Cactus cactus = new Cactus();
+        Integer expected = 333;
+        //when
+        cactus.setNumberOfNeedles(expected);
+        Integer actual = cactus.getNumberOfNeedles();
+        //then
+        Assert.assertEquals(expected, actual);
+    }
+
 
 }

@@ -1,6 +1,5 @@
 package flower.power;
 
-import flower.power.Interfaces.Climb;
 import org.junit.Assert;
 import org.junit.Test;
 
