@@ -7,4 +7,6 @@ public enum SunExposure {
     PARTSUN,
     PARTSHADE;
 
+
+
 }
